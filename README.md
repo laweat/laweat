@@ -7,7 +7,7 @@ Good day! i am Gyuwon Han who is interested in Data Science from south Korea.<br
 BAEKSEOK UNIVERSITY - SOFTWARE
 
 🏢INTERNSHIP
--NIA(한국지능정보사회진흥원) - Public Bigdata Education
+-NIA(한국지능정보사회진흥원) - Public Bigdata Education <BR>
 -EBS(한국교육방송공사) - New Media Project Team
 <!--
 **laweat/laweat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
