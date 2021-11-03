@@ -1,6 +1,6 @@
 ### Hi there 👋
-### Good day! i am Gyuwon Han who is interested in Data Science from south Korea.<br>
-
+#### Good day! i am Gyuwon Han who is interested in Data Science from south Korea.<br>
+<br>
 ### 🏫SCHOOL <BR>
 ####  BAEKSEOK UNIVERSITY <BR>
 
