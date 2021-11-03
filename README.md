@@ -1,12 +1,12 @@
 ### Hi there 👋
 Good day! i am Gyuwon Han who is interested in Data Science from south Korea.<br>
 
-⚡Experience⚡
+⚡Experience⚡<BR>
 
-🏫SCHOOL 
-BAEKSEOK UNIVERSITY - SOFTWARE
+🏫SCHOOL <BR>
+BAEKSEOK UNIVERSITY - SOFTWARE<BR>
 
-🏢INTERNSHIP
+🏢INTERNSHIP<BR>
 -NIA(한국지능정보사회진흥원) - Public Bigdata Education <BR>
 -EBS(한국교육방송공사) - New Media Project Team
 <!--
