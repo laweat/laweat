@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there 
 #### Good day! i am Gyuwon Han who is interested in Data Science from south Korea.<br>
 <br>
 
