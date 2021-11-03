@@ -3,7 +3,7 @@
 <br>
 
 ### 🏫 SCHOOL <BR>
-#### BAEKSEOK UNIVERSITY <BR>
+#### BAEKSEOK UNIVERSITY | SOFTWARE  <BR>
 
 ### 🏢 INTERNSHIP<BR>
 #### 1. NIA(한국지능정보사회진흥원) - Public Bigdata Education | Data Analysis<BR>
