@@ -14,8 +14,9 @@
 ### 🏢 INTERNSHIP<BR>
 #### 1. NIA(한국지능정보사회진흥원) - Public Bigdata Education | Data Analysis<BR>
 #### 2. EBS(한국교육방송공사) - New Media Project Team | Data Analysis
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laweat&show_icons=true&theme=radical)
+<br>
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laweat&show_icons=true&theme=graywhite)
 <!--
 **laweat/laweat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
